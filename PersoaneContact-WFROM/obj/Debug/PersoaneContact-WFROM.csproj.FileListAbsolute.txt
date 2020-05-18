@@ -1,0 +1,90 @@
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe.config
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.pdb
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.dll
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csprojAssemblyReference.cache
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Form1.resources
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Properties.Resources.resources
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.GenerateResource.cache
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CopyComplete
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.exe
+C:\Users\emy_b\Music\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe.config
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.dll
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.dll
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csprojAssemblyReference.cache
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Properties.Resources.resources
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.GenerateResource.cache
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CopyComplete
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.exe
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Agenda.resources
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe.config
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.pdb
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.dll
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csprojAssemblyReference.cache
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Agenda.resources
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Properties.Resources.resources
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.GenerateResource.cache
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CopyComplete
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.exe
+C:\Users\emy_b\OneDrive\Desktop\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csprojAssemblyReference.cache
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Agenda.resources
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Properties.Resources.resources
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.GenerateResource.cache
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.exe
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe.config
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.dll
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CopyComplete
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe.config
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.pdb
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.dll
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.dll
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.pdb
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.pdb
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csprojAssemblyReference.cache
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Agenda.resources
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Properties.Resources.resources
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.GenerateResource.cache
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CoreCompileInputs.cache
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CopyComplete
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.exe
+C:\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe.config
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.exe
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\PersoaneContact-WFROM.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.dll
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.dll
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\LibrarieClase.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\bin\Debug\NivelAccesDate.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csprojAssemblyReference.cache
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Agenda.resources
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact_WFROM.Properties.Resources.resources
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.GenerateResource.cache
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CoreCompileInputs.cache
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.csproj.CopyComplete
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.exe
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\PersoaneContact-WFROM\obj\Debug\PersoaneContact-WFROM.pdb

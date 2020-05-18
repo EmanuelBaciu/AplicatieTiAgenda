@@ -1,0 +1,36 @@
+C:\Users\emy_b\Downloads\EvidentaStudenti\LibrarieClase\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\Downloads\EvidentaStudenti\LibrarieClase\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\Downloads\EvidentaStudenti\LibrarieClase\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Users\emy_b\Downloads\EvidentaStudenti\LibrarieClase\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\Downloads\EvidentaStudenti\LibrarieClase\obj\Debug\LibrarieClase.dll
+C:\Users\emy_b\Downloads\EvidentaStudenti\LibrarieClase\obj\Debug\LibrarieClase.pdb
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.dll
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.dll
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.dll
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.dll
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.pdb
+C:\ProiectPIU\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.dll
+C:\ProiectPIU\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.pdb
+C:\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.dll
+C:\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.dll
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\LibrarieClase\bin\Debug\LibrarieClase.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.dll
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\LibrarieClase\obj\Debug\LibrarieClase.pdb

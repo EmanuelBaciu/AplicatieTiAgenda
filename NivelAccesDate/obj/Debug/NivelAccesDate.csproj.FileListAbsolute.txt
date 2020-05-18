@@ -1,0 +1,63 @@
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\emy_b\Downloads\EvidentaStudenti\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\emy_b\Downloads\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\Music\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.dll
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.pdb
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Facultate\Anul II\Semestrul II\PIU\Laborator\PROIECT\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.dll
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.pdb
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\emy_b\OneDrive\Desktop\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.dll
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.pdb
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.dll
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\bin\Debug\LibrarieClase.pdb
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Facultate\ProiectPIU\AplicatieTipAgenda\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
